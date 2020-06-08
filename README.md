@@ -37,5 +37,13 @@
 
 github address: [K-JW][github]
 
-[github]:http://github.com/K-JW
+[github]:http://github.com/Jamiroquaii
+
+blog address: [JIWON'S NAVER BLOG][blog]
+
+[blog]:http://wldnjsqufdl.blog.me/
+
+Youtube address : [JIWON'S CHANNEL][Youtube]
+
+[Youtube]:https://www.youtube.com/지콩
 
