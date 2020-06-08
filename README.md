@@ -35,6 +35,8 @@
 |소프트웨어세미나2|최신 SW 트렌드|1|
 |스포츠-테니스|한림 소양|1|
 
+---
+
 github address: [K-JW][github]
 
 [github]:http://github.com/Jamiroquaii
@@ -46,4 +48,14 @@ blog address: [JIWON'S NAVER BLOG][blog]
 Youtube address : [JIWON'S CHANNEL][Youtube]
 
 [Youtube]:https://www.youtube.com/지콩
+
+---
+
+지원이의 취미
+* **피아노 연주**
+* 노래 작곡
+* 영상 편집
+* 사진 촬영
+* 블로그 포스팅
+* 밥 먹기
 
