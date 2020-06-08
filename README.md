@@ -34,3 +34,8 @@
 |소프트웨어세미나1|최신 SW 트렌드|1|
 |소프트웨어세미나2|최신 SW 트렌드|1|
 |스포츠-테니스|한림 소양|1|
+
+github address: [K-JW][github]
+
+[github]:http://github.com/K-JW
+
